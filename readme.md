@@ -14,8 +14,8 @@ Know more about me through [my LinkedIn profile.](https://www.linkedin.com/in/da
 <a href="https://github.com/davidnicodemus/covid-19-visualization">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=davidnicodemus&repo=covid-19-visualization&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 
-<a href="https://github.com/davidnicodemus/the-office-EDA">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=davidnicodemus&repo=the-office-EDA&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/davidnicodemus/olist_SQL_case_study">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=davidnicodemus&repo=olist_SQL_case_study&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 
   
 ## GitHub Stats
